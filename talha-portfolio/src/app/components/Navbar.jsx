@@ -17,6 +17,9 @@ export default function Navbar() {
         <a href="#" className="hover:underline">
           Contact
         </a>
+        <a href="#" className="hover:underline">
+          Resume
+        </a>
       </nav>
     </div>
   );
