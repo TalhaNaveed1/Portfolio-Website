@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function Intro() {
   return (
-    <div className="flex flex-row justify-between space-x-32 mt-32">
+    <div className="flex flex-row justify-between space-x-32 mt-32 mb-40">
       <div className="">
-        <h2 className="text-white font-bold text-4xl">Talha Naveed</h2>
+        <h2 className="text-white font-bold text-7xl">Talha Naveed</h2>
         <h3 className="text-white font-semibold mt-2">
           Second-year Computer Science Student at the University of Guelph
         </h3>

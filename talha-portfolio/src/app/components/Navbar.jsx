@@ -15,9 +15,6 @@ export default function Navbar() {
           Projects
         </a>
         <a href="#" className="hover:underline">
-          Contact
-        </a>
-        <a href="#" className="hover:underline">
           Resume
         </a>
       </nav>
